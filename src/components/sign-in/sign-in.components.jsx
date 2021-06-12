@@ -1,5 +1,4 @@
 import React from "react";
-import SignInAndSignUpPage from "../../pages/sign-in-and-sign-up/sign-in-and-sign-up.component";
 import FormInput from "../form-input/form-input.components";
 import CustomButton from "../custom-button/custom-button.component";
 import "./sign-in.styles.scss";
